@@ -1,5 +1,5 @@
-# Flight Guardian AI
-**TIDAL HACK (TAMU) - Major League Hackathon [MLH] 2025** **🚀🚀WINNER🚀🚀**
+# Flight Guardian AI 🚀🚀MLH 2025 WINNER🚀🚀
+**TIDAL HACK (TAMU) - Major League Hackathon [MLH] 2025
 
 Judged by: 
 - Google
